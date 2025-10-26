@@ -9,34 +9,34 @@ o888o         88ooo88   o888o  88o8 o88o  8  o88o o88o  o888o
                 design that follows function
 ```
 
-# 🧩 Agent Architecture: "Forma UX"
+# Agent Architecture: "Forma UX"
 
 I have designed a true **specialized AI agent**.  
 Each file below represents a **core module** of its architecture, defining how the agent thinks, learns, builds, and renders its outputs.
 
 ---
 
-## 🧠 Overview
+## Overview
 
 The “Forma UX” agent is built as a modular AI system.  
 Each file acts as a **distinct layer of intelligence**, allowing the agent to perform tasks with structure, domain expertise, and a consistent visual identity.
 
 ---
 
-## 🧱 Core Files and Their Roles
+## Core Files and Their Roles
 
 
 
 | File | Role in Agent Architecture | Explanation |
 |------|-----------------------------|--------------|
-| **Forma_UX_Master_Prompt_V1.md** | **The Operating Core (Core Logic)** | This is not just a prompt — it’s the **constitution** of the agent. It defines its personality (professional, precise), engagement rules (mandatory steps, confirmation requests), decision-making logic (workflow), and how it interacts with both the user and other modules. It acts as the agent’s **operating system**. |
-| **Forma_UX_knowledge_base_V1.md** | **The Knowledge Base (Domain Expertise)** | This file serves as the agent’s **specialized memory**. It contains the UX expertise that enables the agent to make informed, professional recommendations. When it needs to justify a layout or design pattern, it doesn’t guess — it consults this database to ensure **accuracy and authority**. |
+| **Forma_UX_Master_Prompt.md** | **The Operating Core (Core Logic)** | This is not just a prompt — it’s the **constitution** of the agent. It defines its personality (professional, precise), engagement rules (mandatory steps, confirmation requests), decision-making logic (workflow), and how it interacts with both the user and other modules. It acts as the agent’s **operating system**. |
+| **Forma_UX_knowledge_base.md** | **The Knowledge Base (Domain Expertise)** | This file serves as the agent’s **specialized memory**. It contains the UX expertise that enables the agent to make informed, professional recommendations. When it needs to justify a layout or design pattern, it doesn’t guess — it consults this database to ensure **accuracy and authority**. |
 | **Forma_UX_Component_Catalogue.md** | **The Capability Inventory (Toolbox)** | This defines **what the agent can build**. It’s the inventory of practical “skills.” The agent uses this catalogue to know which components it can use, their names, and accepted properties (`Props`). Without it, the agent wouldn’t know which “building blocks” to use to assemble mockups. |
 | **Forma_UX_StyleSheet.css** | **The Visual Rendering Engine (Style Engine)** | These files define the **styling rules** the agent applies to everything it creates. They ensure each component aligns with the “Forma” design system’s visual identity. In short, they are the **engine** that translates structure (HTML) into a coherent, professional visual interface. |
 
 ---
 
-## 🧩 System Summary
+## System Summary
 
 Together, these modules form the **intelligence architecture** of the “Forma UX” agent:
 
@@ -49,7 +49,7 @@ Together, these modules form the **intelligence architecture** of the “Forma U
 
 ---
 
-## 🚀 How to Extend or Contribute
+## How to Extend or Contribute
 
 You can easily **extend the Forma UX architecture** by adding or updating modules:
 
@@ -73,7 +73,7 @@ When submitting changes, please:
 
 ---
 
-## 💡 Vision
+## Vision
 
 The *Forma UX* agent isn’t just an automation tool — it’s a **digital design collaborator**.  
 Its purpose is to unify **AI reasoning**, **UX expertise**, and **design system integrity**  
@@ -81,7 +81,7 @@ to deliver intelligent, visually consistent, and user-centered results.
 
 ---
 
-👤 **Author:** [bbicio]  
-📦 **Project:** Forma UX  
-🕓 **Last updated:** October 2025
+**Author:** [bbicio]  
+**Project:** Forma UX  
+**Last updated:** October 2025
 
