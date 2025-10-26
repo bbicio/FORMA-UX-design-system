@@ -1,5 +1,5 @@
 # FORMA-UX-design-system
-
+```
 ooooooooooo   ooooooo   oooooooooo  oooo     oooo      o
  888    88  o888   888o  888    888  8888o   888      888
  888ooo8    888     888  888oooo88   88 888o8 88     8  88
@@ -7,6 +7,7 @@ ooooooooooo   ooooooo   oooooooooo  oooo     oooo      o
 o888o         88ooo88   o888o  88o8 o88o  8  o88o o88o  o888o
 
                 design that follows function
+```
 
 # 🧩 Agent Architecture: "Forma UX"
 
