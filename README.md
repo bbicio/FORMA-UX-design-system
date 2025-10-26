@@ -25,8 +25,6 @@ Each file acts as a **distinct layer of intelligence**, allowing the agent to pe
 
 ## Core Files and Their Roles
 
-
-
 | File | Role in Agent Architecture | Explanation |
 |------|-----------------------------|--------------|
 | **Forma_UX_Master_Prompt.md** | **The Operating Core (Core Logic)** | This is not just a prompt — it’s the **constitution** of the agent. It defines its personality (professional, precise), engagement rules (mandatory steps, confirmation requests), decision-making logic (workflow), and how it interacts with both the user and other modules. It acts as the agent’s **operating system**. |
@@ -47,7 +45,20 @@ Together, these modules form the **intelligence architecture** of the “Forma U
 | Capabilities | Builds & assembles | Defines available components and construction rules. |
 | Rendering | Styles & visualizes | Ensures every output is visually consistent with the design system. |
 
+
 ---
+
+## 🔄 Agent Operational Flow
+
+Viewed through this lens, the agent’s workflow unfolds as follows:
+
+1. The agent activates and follows the directives defined by its **Operating Core (Master Prompt)**.  
+2. It interacts with the user and, whenever it needs to make strategic design decisions, it draws upon its **Knowledge Base**.  
+3. To build the requested interface, it selects the appropriate components from its **Component Catalogue**.  
+4. Finally, it applies its **Rendering Engine (CSS)** to ensure the final output remains faithful to the **Forma design system**.
+
+---
+
 
 ## How to Extend or Contribute
 
